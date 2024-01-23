@@ -8,6 +8,7 @@ public class forloop {
             r =r*1;
             System.out.println(r);
         }
+
     }
     
 }
