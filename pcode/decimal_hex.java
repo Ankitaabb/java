@@ -1,4 +1,4 @@
-package pcode;
+
 public class decimal_hex {
     public static void main(String[] args) {
         int n=199;

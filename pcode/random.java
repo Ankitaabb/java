@@ -1,4 +1,3 @@
-package pcode;
 
 public class random {
 

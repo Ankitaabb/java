@@ -1,4 +1,4 @@
-package pcode;
+
 import java.util.Scanner;
 public class multiplicationtable {
     public static void main(String[] args) {

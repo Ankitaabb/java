@@ -1,4 +1,3 @@
-package pcode;
 
 import java.util.Scanner;
 

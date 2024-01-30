@@ -1,5 +1,4 @@
 
-package pcode;
 import java.util.*;
 
 public class diamond_odd {
