@@ -17,6 +17,7 @@ public class sinx {
             c--;
         }
         System.out.println(res);
+        sc.close();
     }
 
 }
