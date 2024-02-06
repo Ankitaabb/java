@@ -8,7 +8,7 @@ class test extends ab {
     }
 
     public static void main(String[] args) {
-        test t = new test();
+        test1 t = new test1();
         t.task1();
     }
 }
